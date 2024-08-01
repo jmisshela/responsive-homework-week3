@@ -81,4 +81,5 @@ p {
   text-decoration: none;
   font-size: 28px;
   color: var(--primary-color);
+  display: block;
 }
