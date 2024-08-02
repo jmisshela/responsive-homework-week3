@@ -41,14 +41,20 @@ h3 {
 }
 
 .contact-link,
-.about-link {
+.about-link,
+.yoga-link,
+.weather-link,
+.yogurt-link {
   text-decoration: none;
   padding: 20px;
   border-radius: 5px;
   margin: 20px;
   box-shadow: var(--box-shadow);
 }
-.contact-link {
+.contact-link,
+.yoga-link,
+.weather-link,
+.yogurt-link {
   background-color: var(--primary-color);
   color: white;
 }
